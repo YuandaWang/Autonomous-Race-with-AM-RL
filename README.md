@@ -2,6 +2,8 @@
 
 This repository contains the code for our research on autonomous racing, as detailed in our paper [Learning autonomous race driving with action mapping reinforcement learning](https://doi.org/10.1016/j.isatra.2024.05.010) [R1]. 
 
+This respository is the same as [AGI-Brain Group/Autonomous-Race-with-AM-RL](https://github.com/agi-brain/Autonomous-Race-with-AM-RL.git). This respository here is for private usage. Please visit the agi-group repository for more exciting code resources.
+
 <p align="center">
   <img src="readme_imgs/TrackA_Video2.gif" alt="Image 1" width="500" />
 </p>
